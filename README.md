@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AndyJhoao
+- 👀 I’m interested in Cinema
+- 🌱 I’m currently learning Backend with Javascript
